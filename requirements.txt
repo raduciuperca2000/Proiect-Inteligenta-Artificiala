@@ -1,0 +1,9 @@
+gymnasium[box2d]==0.28.1
+gymnasium
+opencv-python-headless>4.4, <5
+tqdm
+numpy
+neat-python
+graphviz
+matplotlib
+pyyaml
